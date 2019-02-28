@@ -13,3 +13,10 @@ The original repo is not maintained for a long time.
 I have fixed some bugs with @JiCoM, and upload the code here.  
 I will continue work on this project.  
 **Our goal is to try to extract rules from labeled text data.**
+
+
+Materials:
+1. https://blog.csdn.net/triplemeng/article/details/78269127
+2. https://github.com/magical2world/tf-hierarchical-rnn
+3. https://github.com/triplemeng/hierarchical-attention-model
+4. [Hierarchical Attention Networks for Document Classification](https://www.cs.cmu.edu/~hovy/papers/16HLT-hierarchical-attention-networks.pdf)
