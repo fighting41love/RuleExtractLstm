@@ -8,3 +8,8 @@ This repository tries to replicate the results of
 
 This repository is not guarenteed to be bug free, but you are welcome to report any bugs to me. 
 
+This repo is forked from [github](https://github.com/ZeweiChu/rule_extract_lstm).
+The original repo is not maintained for a long time.  
+I have fixed some bugs with @JiCoM, and upload the code here.  
+I will continue work on this project.  
+**Our goal is to try to extract rules from labeled text data.**
